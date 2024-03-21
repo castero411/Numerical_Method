@@ -1,0 +1,14 @@
+D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\numerical_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\numerical_project.AssemblyInfoInputs.cache
+D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\numerical_project.AssemblyInfo.cs
+D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\numerical_project.csproj.CoreCompileInputs.cache
+D:\personal\System Modelling Projects\numerical_project\numerical_project\bin\Debug\net8.0\numerical_project.exe
+D:\personal\System Modelling Projects\numerical_project\numerical_project\bin\Debug\net8.0\numerical_project.deps.json
+D:\personal\System Modelling Projects\numerical_project\numerical_project\bin\Debug\net8.0\numerical_project.runtimeconfig.json
+D:\personal\System Modelling Projects\numerical_project\numerical_project\bin\Debug\net8.0\numerical_project.dll
+D:\personal\System Modelling Projects\numerical_project\numerical_project\bin\Debug\net8.0\numerical_project.pdb
+D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\numerical_project.dll
+D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\refint\numerical_project.dll
+D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\numerical_project.pdb
+D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\numerical_project.genruntimeconfig.cache
+D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\ref\numerical_project.dll
