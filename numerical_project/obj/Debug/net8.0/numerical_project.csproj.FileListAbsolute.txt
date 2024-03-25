@@ -12,3 +12,18 @@ D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\De
 D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\numerical_project.pdb
 D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\numerical_project.genruntimeconfig.cache
 D:\personal\System Modelling Projects\numerical_project\numerical_project\obj\Debug\net8.0\ref\numerical_project.dll
+D:\Uni projects\Numerical_Method\numerical_project\bin\Debug\net8.0\numerical_project.exe
+D:\Uni projects\Numerical_Method\numerical_project\bin\Debug\net8.0\numerical_project.deps.json
+D:\Uni projects\Numerical_Method\numerical_project\bin\Debug\net8.0\numerical_project.runtimeconfig.json
+D:\Uni projects\Numerical_Method\numerical_project\bin\Debug\net8.0\numerical_project.dll
+D:\Uni projects\Numerical_Method\numerical_project\bin\Debug\net8.0\numerical_project.pdb
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\numerical_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\numerical_project.AssemblyInfoInputs.cache
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\numerical_project.AssemblyInfo.cs
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\numerical_project.csproj.CoreCompileInputs.cache
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\numerical_project.sourcelink.json
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\numerical_project.dll
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\refint\numerical_project.dll
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\numerical_project.pdb
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\numerical_project.genruntimeconfig.cache
+D:\Uni projects\Numerical_Method\numerical_project\obj\Debug\net8.0\ref\numerical_project.dll

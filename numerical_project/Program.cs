@@ -15,14 +15,14 @@ Console.WriteLine("Welcome to the numerical Project" +"\n"+
     "ax3 + bx2 + cx + d" +
     " \nplese enter teh following variable a,b,c,d respectively");
 
-a = int.Parse(Console.ReadLine());
-b = int.Parse(Console.ReadLine());
-c = int.Parse(Console.ReadLine());
-d = int.Parse(Console.ReadLine());
+a = Convert.ToInt16(Console.ReadLine());
+b = Convert.ToInt16(Console.ReadLine());
+c = Convert.ToInt16(Console.ReadLine());
+d = Convert.ToInt16(Console.ReadLine());
 
 Console.WriteLine("please enter the interval value [x,y] respectively");
-x = int.Parse(Console.ReadLine());
-y = int.Parse(Console.ReadLine());
+x = Convert.ToInt16(Console.ReadLine());
+y = Convert.ToInt16(Console.ReadLine());
 
 
 Console.WriteLine("please enter the tollerance value");
@@ -36,7 +36,7 @@ Console.WriteLine("please choose your your method" +
     "\n Fixed Point -> 5" +
     "\n All Methods -> 6");
 
-method = int.Parse(Console.ReadLine());
+method = Convert.ToInt16(Console.ReadLine());
 
 no_Of_Itteration = (int)Math.Ceiling(Math.Log((y - x) / tollerance)/Math.Log(2));
 
@@ -144,6 +144,7 @@ void Bisection()
 
     }
     Console.WriteLine("\nthe root is " + n3);
+    
     return;
 }
 
@@ -290,3 +291,5 @@ void Fixed_point()
 
     Console.WriteLine("\nthe root is " + x1);
 }
+
+Console.WriteLine("Copyright:   AMOGUS");

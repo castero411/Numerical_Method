@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = numerical_project
-build_property.ProjectDir = D:\personal\System Modelling Projects\numerical_project\numerical_project\
+build_property.ProjectDir = D:\Uni projects\Numerical_Method\numerical_project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
